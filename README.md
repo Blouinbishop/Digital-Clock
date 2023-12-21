@@ -13,7 +13,7 @@ The Java Clock Program is a simple graphical user interface (GUI) application th
 To use the Java Clock Program, follow these steps:
 
 ### Prerequisites
-- Java Development Kit (JDK) installed on your machine.
+- Java Development Kit (IDE) installed on your machine.
 
 ### Usage
 1. Clone the repository to your local machine:
